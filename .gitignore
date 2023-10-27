@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.wsuo
+*.lock
+*.vsidx
+*.sqlite
+*.json
+*.dll
+*.so
+/bin/Debug/net6.0
+/obj
