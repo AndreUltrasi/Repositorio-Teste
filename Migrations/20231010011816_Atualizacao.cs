@@ -1,7 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-#nullable disable
-
 namespace WebApplication2.Migrations
 {
     public partial class Atualizacao : Migration

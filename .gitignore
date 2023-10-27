@@ -11,3 +11,9 @@
 *.so
 /bin/Debug/net6.0
 /obj
+/.vs/WebApplication2/config/applicationhost.config
+*.suo
+/tests/IntegratedTest/bin/Debug/net6.0
+/tests/IntegratedTest/obj
+/tests/UnitTests/bin
+/tests/UnitTests/obj
