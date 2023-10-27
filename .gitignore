@@ -17,3 +17,6 @@
 /tests/IntegratedTest/obj
 /tests/UnitTests/bin
 /tests/UnitTests/obj
+/.vs/ProjectEvaluation
+/.vs/WebApplication2/DesignTimeBuild/.dtbcache.v2
+/.vs/WebApplication2/v17
