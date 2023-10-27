@@ -11,3 +11,15 @@
 *.so
 /bin/Debug/net6.0
 /obj
+/tests/IntegratedTest/bin/Debug/net6.0
+/tests/IntegratedTest/obj/Debug/net6.0
+/.vs/WebApplication2/config/applicationhost.config
+/.vs/WebApplication2/DesignTimeBuild/.dtbcache.v2
+/.vs/WebApplication2/v17/.futdcache.v2
+*.suo
+/tests/IntegratedTest/obj/Release/net6.0
+/tests/IntegratedTest/obj
+/tests/UnitTests/bin
+/tests/UnitTests/obj/Debug/net6.0
+/tests/UnitTests/obj/Release/net6.0
+/tests/UnitTests/obj
